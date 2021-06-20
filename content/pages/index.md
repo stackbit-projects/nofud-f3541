@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: No Fud Clothing Company
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We get merch to degens
     actions:
       - label: Learn More
         url: /features
